@@ -3,7 +3,12 @@ Target case study analyzes its Brazilian e-commerce business from 2016 to 2018. 
 
 This project is to understand customer behaviour, pricing, efficiency, and areas for improvement. Exploration will focus on order trends, seasonality, delivery times, and payment methods to help Target optimize their Brazilian e-commerce strategy through data-driven decisions.
 
-The thought process is documented here, and all the coding can be found in the folders on this project
+The thought process is documented here, and all the coding can be found in the folders on this project.
+
+#### Dataset Schema
+
+<img width="531" alt="Screenshot 2024-09-11 at 1 23 04 PM" src="https://github.com/user-attachments/assets/b67a8c89-8506-4bcf-8687-b5077f3c50ff">
+
 
 ## Questions to be answered
 
