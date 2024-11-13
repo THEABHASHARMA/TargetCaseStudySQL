@@ -7,7 +7,8 @@ The thought process is documented here, and all the coding can be found in the f
 
 #### Dataset Schema
 
-<img width="531" alt="Screenshot 2024-09-11 at 1 23 04 PM" src="https://github.com/user-attachments/assets/b67a8c89-8506-4bcf-8687-b5077f3c50ff">
+<img width="465" alt="Screenshot 2024-11-13 at 3 39 40 PM" src="https://github.com/user-attachments/assets/bd3db716-a4ab-4d60-8d42-728d59b3560c">
+
 
 
 ## Questions to be answered
